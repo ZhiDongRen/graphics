@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="pgre_cv3\main.cpp" />
+    <ClCompile Include="pgre_cv3\pgr.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="data\light.vs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="data\light.fs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="data\ground.fs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="data\ground.vs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="data\building.fs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="data\building.vs">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{cf6fbc33-70a3-4206-beb4-b4eb0e4701de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Angel.h" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\Angel.h(63,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\mat.h(707,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\mat.h(708,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\mat.h(709,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\mat.h(731,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\mat.h(737,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\mat.h(744,39): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\mat.h(765,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\main.cpp(59,12): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\main.cpp(102,10): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\main.cpp(107,10): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\main.cpp(112,10): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\main.cpp(118,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\main.cpp(124,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\main.cpp(199,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\pgre_cv3\main.cpp(358,27): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  pgre_cv3.vcxproj -> C:\Users\doria\Desktop\prject\pgre_cv3\pgre_cv3\pgre_cv3\bin\pgre_cv3.exe
